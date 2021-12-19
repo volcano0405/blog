@@ -33,7 +33,7 @@ module.exports = {
     sidebar: {
       '/leetcode/': [
         '',     
-        '997. 找到小镇的法官',
+        '997.找到小镇的法官',
       ],
     },
   },
